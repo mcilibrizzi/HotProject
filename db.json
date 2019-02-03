@@ -1,0 +1,6 @@
+{    
+    "users" : [   {"id" : 1 , "name" : "Matteo", "description" :"Newbie Programmer"},
+                  {"id" : 2 , "name" : "Linus" , "description" :"Expert Programmer"},
+                  {"id" : 3 , "name" : "Goofy" , "description" :"No Programmer"}
+              ]
+}
